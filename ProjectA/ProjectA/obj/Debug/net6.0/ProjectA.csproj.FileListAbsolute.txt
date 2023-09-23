@@ -1,0 +1,14 @@
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\bin\Debug\net6.0\ProjectA.exe
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\bin\Debug\net6.0\ProjectA.deps.json
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\bin\Debug\net6.0\ProjectA.runtimeconfig.json
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\bin\Debug\net6.0\ProjectA.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\bin\Debug\net6.0\ProjectA.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.AssemblyInfoInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.AssemblyInfo.cs
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\refint\ProjectA.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.genruntimeconfig.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ref\ProjectA.dll

@@ -1,0 +1,4 @@
+C:\Users\sathwikkumar.m\source\repos\ProjectH\ProjectH\obj\Debug\net6.0\ProjectH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sathwikkumar.m\source\repos\ProjectH\ProjectH\obj\Debug\net6.0\ProjectH.AssemblyInfoInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectH\ProjectH\obj\Debug\net6.0\ProjectH.AssemblyInfo.cs
+C:\Users\sathwikkumar.m\source\repos\ProjectH\ProjectH\obj\Debug\net6.0\ProjectH.csproj.CoreCompileInputs.cache

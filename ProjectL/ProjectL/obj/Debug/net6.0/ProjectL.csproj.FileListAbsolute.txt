@@ -1,0 +1,11 @@
+C:\Users\sathwikkumar.m\source\repos\ProjectL\ProjectL\bin\Debug\net6.0\ProjectL.deps.json
+C:\Users\sathwikkumar.m\source\repos\ProjectL\ProjectL\bin\Debug\net6.0\ProjectL.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectL\ProjectL\bin\Debug\net6.0\ProjectL.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectL\ProjectL\obj\Debug\net6.0\ProjectL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sathwikkumar.m\source\repos\ProjectL\ProjectL\obj\Debug\net6.0\ProjectL.AssemblyInfoInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectL\ProjectL\obj\Debug\net6.0\ProjectL.AssemblyInfo.cs
+C:\Users\sathwikkumar.m\source\repos\ProjectL\ProjectL\obj\Debug\net6.0\ProjectL.csproj.CoreCompileInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectL\ProjectL\obj\Debug\net6.0\ProjectL.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectL\ProjectL\obj\Debug\net6.0\refint\ProjectL.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectL\ProjectL\obj\Debug\net6.0\ProjectL.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectL\ProjectL\obj\Debug\net6.0\ref\ProjectL.dll

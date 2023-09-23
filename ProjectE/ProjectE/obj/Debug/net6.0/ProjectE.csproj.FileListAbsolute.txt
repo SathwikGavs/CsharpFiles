@@ -1,0 +1,14 @@
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\obj\Debug\net6.0\ProjectE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\obj\Debug\net6.0\ProjectE.AssemblyInfoInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\obj\Debug\net6.0\ProjectE.AssemblyInfo.cs
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\obj\Debug\net6.0\ProjectE.csproj.CoreCompileInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\bin\Debug\net6.0\ProjectE.exe
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\bin\Debug\net6.0\ProjectE.deps.json
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\bin\Debug\net6.0\ProjectE.runtimeconfig.json
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\bin\Debug\net6.0\ProjectE.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\bin\Debug\net6.0\ProjectE.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\obj\Debug\net6.0\ProjectE.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\obj\Debug\net6.0\refint\ProjectE.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\obj\Debug\net6.0\ProjectE.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\obj\Debug\net6.0\ProjectE.genruntimeconfig.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectE\ProjectE\obj\Debug\net6.0\ref\ProjectE.dll

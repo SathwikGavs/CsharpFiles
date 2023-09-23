@@ -1,0 +1,14 @@
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\bin\Debug\net6.0\TestA.exe
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\bin\Debug\net6.0\TestA.deps.json
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\bin\Debug\net6.0\TestA.runtimeconfig.json
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\bin\Debug\net6.0\TestA.dll
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\bin\Debug\net6.0\TestA.pdb
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\obj\Debug\net6.0\TestA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\obj\Debug\net6.0\TestA.AssemblyInfoInputs.cache
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\obj\Debug\net6.0\TestA.AssemblyInfo.cs
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\obj\Debug\net6.0\TestA.csproj.CoreCompileInputs.cache
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\obj\Debug\net6.0\TestA.dll
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\obj\Debug\net6.0\refint\TestA.dll
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\obj\Debug\net6.0\TestA.pdb
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\obj\Debug\net6.0\TestA.genruntimeconfig.cache
+C:\Users\sathwikkumar.m\source\repos\TestA\TestA\obj\Debug\net6.0\ref\TestA.dll

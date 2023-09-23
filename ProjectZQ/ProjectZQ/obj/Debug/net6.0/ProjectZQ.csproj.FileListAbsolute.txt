@@ -1,0 +1,14 @@
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\bin\Debug\net6.0\ProjectZQ.exe
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\bin\Debug\net6.0\ProjectZQ.deps.json
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\bin\Debug\net6.0\ProjectZQ.runtimeconfig.json
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\bin\Debug\net6.0\ProjectZQ.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\bin\Debug\net6.0\ProjectZQ.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\obj\Debug\net6.0\ProjectZQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\obj\Debug\net6.0\ProjectZQ.AssemblyInfoInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\obj\Debug\net6.0\ProjectZQ.AssemblyInfo.cs
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\obj\Debug\net6.0\ProjectZQ.csproj.CoreCompileInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\obj\Debug\net6.0\ProjectZQ.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\obj\Debug\net6.0\refint\ProjectZQ.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\obj\Debug\net6.0\ProjectZQ.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\obj\Debug\net6.0\ProjectZQ.genruntimeconfig.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectZQ\ProjectZQ\obj\Debug\net6.0\ref\ProjectZQ.dll

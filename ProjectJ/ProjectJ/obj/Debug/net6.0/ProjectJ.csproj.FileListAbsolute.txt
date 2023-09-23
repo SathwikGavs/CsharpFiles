@@ -1,0 +1,14 @@
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\bin\Debug\net6.0\ProjectJ.exe
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\bin\Debug\net6.0\ProjectJ.deps.json
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\bin\Debug\net6.0\ProjectJ.runtimeconfig.json
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\bin\Debug\net6.0\ProjectJ.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\bin\Debug\net6.0\ProjectJ.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\obj\Debug\net6.0\ProjectJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\obj\Debug\net6.0\ProjectJ.AssemblyInfoInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\obj\Debug\net6.0\ProjectJ.AssemblyInfo.cs
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\obj\Debug\net6.0\ProjectJ.csproj.CoreCompileInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\obj\Debug\net6.0\ProjectJ.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\obj\Debug\net6.0\refint\ProjectJ.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\obj\Debug\net6.0\ProjectJ.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\obj\Debug\net6.0\ProjectJ.genruntimeconfig.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectJ\ProjectJ\obj\Debug\net6.0\ref\ProjectJ.dll

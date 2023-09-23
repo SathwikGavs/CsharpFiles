@@ -1,0 +1,14 @@
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\obj\Debug\net6.0\ProjectB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\obj\Debug\net6.0\ProjectB.AssemblyInfoInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\obj\Debug\net6.0\ProjectB.AssemblyInfo.cs
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\obj\Debug\net6.0\ProjectB.csproj.CoreCompileInputs.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\bin\Debug\net6.0\ProjectB.exe
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\bin\Debug\net6.0\ProjectB.deps.json
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\bin\Debug\net6.0\ProjectB.runtimeconfig.json
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\bin\Debug\net6.0\ProjectB.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\bin\Debug\net6.0\ProjectB.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\obj\Debug\net6.0\ProjectB.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\obj\Debug\net6.0\refint\ProjectB.dll
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\obj\Debug\net6.0\ProjectB.pdb
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\obj\Debug\net6.0\ProjectB.genruntimeconfig.cache
+C:\Users\sathwikkumar.m\source\repos\ProjectB\ProjectB\obj\Debug\net6.0\ref\ProjectB.dll
